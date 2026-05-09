@@ -1,6 +1,6 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 안녕하세요 백엔드 개발자 조보강(Bokang Cho)입니다.
 <a href="https://velog.io/@bokang/posts" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
-<a href="mailto:elly3385@gmail.com" target="_blank"><img src="https://img.shields.io/badge/bogang12345@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+<a href="mailto:bogang12345@gmail.com" target="_blank"><img src="https://img.shields.io/badge/bogang12345@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 
 <p align="left">
 </p>
@@ -16,8 +16,23 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 
-
 <br>
+
+## 💡 My Most Used Languages 💡
+
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bokang03&layout=compact&theme=dark)
+
+</div>
+
+## 💡 My Git Stats 💡
+
+<div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bokang03&show_icons=true&theme=dark)
+
+</div>
 
 ## 📊 Activity
 
