@@ -1,9 +1,6 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 안녕하세요 백엔드 개발자 조보강입니다.
 <div align="center">
 
-  <a href="https://velog.io/@bokang/posts" target="_blank">
-    <img src="https://img.shields.io/badge/Tech Blog-20C997?style=flat-square&logo=Velog&logoColor=white" alt="Tech Blog" />
-  </a>
 
   <a href="mailto:bogang12345@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/bogang12345@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail" />
